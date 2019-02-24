@@ -1,0 +1,10 @@
+---
+title: 简明 Vim 练级攻略
+date: 2016-05-14 00:29:30
+tags: []
+categories: ['CSDN备份']
+copyright: true
+---
+很好的教程： [ http://coolshell.cn/articles/5426.html
+](http://coolshell.cn/articles/5426.html)
+
